@@ -7,7 +7,7 @@ import jakarta.ws.rs.core.MediaType;
 
 import java.time.LocalDate;
 
-@Path("")
+@Path("/")
 public class HealthResource {
 
     @GET
